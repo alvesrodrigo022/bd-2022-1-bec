@@ -1,6 +1,6 @@
 # Disciplina BANCO DE DADOS I, Oferta 2022/1 <br> [Bacharelado em Engenharia da Computação] <br> Bem-vindo(a)!
 
-Atividade do Topico 17
+Atividade do Topico 17.
 
 1. Que times participaram do campeonato do Ano 2021?
 2. Quais as datas das partidas ocorridas no campeonato do Ano 2020?
